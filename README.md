@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @J-VENKATESH
 - 👀 I’m interested in ...learning new things 
 - 🌱 I’m currently learning ...cpp
-- 💞️ I’m looking to collaborate on ...google
 - 📫 How to reach me ... --jonnavenkatesh3242@gmail.com
 
 <!---
